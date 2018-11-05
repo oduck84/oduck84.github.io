@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Oduck84 Live
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,10 +29,10 @@ safe: false
 lsi: false
 excerpt_separator: "\n\n"
 
-# Theme settings
+# Theme settingss
 compress_html:
   comments: ["<!-- ", " -->"]
-  clippings: all
+  clippings: all       
   endings: all
 
 
