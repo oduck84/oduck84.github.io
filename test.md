@@ -6,11 +6,10 @@ title: "test1322"
 crawlertitle: "All test"
 summary: "Posts about jekyll"
 active: tests
-categories: posts2
 ---
 
 
-{% for post in site.posts limit: 10%}
+{% for post in site.categories.posts2 limit:10 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
