@@ -19,5 +19,3 @@ active: archive
   </ul>
 
 
-
-{% endfor %}
