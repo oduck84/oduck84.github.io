@@ -1,11 +1,11 @@
 ---
-bg: "tag.jpg"
+bg: "gunpla.jpg"
 layout: page
 permalink: /postss/
-title: "test1322"
-crawlertitle: "All test"
-summary: "Posts about jekyll"
-active: tests
+title: "Gunpla"
+crawlertitle: "Gunpla"
+summary: "Gunpla wold"
+active: Gunpla
 ---
 
 
