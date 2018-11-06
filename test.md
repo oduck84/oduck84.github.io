@@ -8,8 +8,6 @@ summary: "Posts about jekyll"
 active: archive
 ---
 
-test13
-
 
 {% for post in site.posts }
   <article class="index-page">
