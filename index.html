@@ -1,12 +1,12 @@
 ---
 bg: "rails.jpg"
 layout: default
-crawlertitle: "Jekyll blog"
+crawlertitle: "oduck84 blog"
 title: "Voyager"
 summary: "main page"
 ---
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 10%}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
