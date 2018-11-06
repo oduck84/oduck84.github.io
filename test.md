@@ -15,19 +15,32 @@ active: archive
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
 
   <ul class="year">
-    {% for post in posts %}
-      {% if post.tags contains t %}
-        <li>
-          {% if post.lastmod %}
-            <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
-            <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
-          {% else %}
-            <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
-            <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
-          {% endif %}
-        </li>
-      {% endif %}
-    {% endfor %}
+
+  <div class="cover">
+
+    <div class="cover-text">
+      <div class="heading">
+
+        {% if page.tags %}
+          {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
+          {% endfor %}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+
+      </div>
+
+      <p>
+        {% if page.summary %}
+          {{ page.summary }}
+        {% endif %}
+      </p>
+
+    </div>
+
+  </div>
+
   </ul>
 
 {% endfor %}
