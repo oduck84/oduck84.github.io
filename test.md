@@ -6,6 +6,7 @@ title: "test1322"
 crawlertitle: "All test"
 summary: "Posts about jekyll"
 active: tests
+categories: posts2
 ---
 
 
