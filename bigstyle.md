@@ -1,11 +1,11 @@
 ---
 bg: "bigstyle.jpg"
 layout: page
-permalink: /postss/
+permalink: /bigstyle/
 title: "bigstyle"
 crawlertitle: "bigstyle"
 summary: "bigstyle wold"
-active: bigstyle
+active: BIGSYTLE
 ---
 
 

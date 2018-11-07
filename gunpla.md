@@ -1,7 +1,7 @@
 ---
 bg: "gunpla.jpg"
 layout: page
-permalink: /postss/
+permalink: /gunpla/
 title: "Gunpla"
 crawlertitle: "Gunpla"
 summary: "Gunpla wold"
