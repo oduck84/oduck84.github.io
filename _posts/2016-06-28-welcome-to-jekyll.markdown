@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "bigstyle welcom"
 crawlertitle: "How to use jekyll"
 summary: "Jekyll default page"
 date:   2016-06-28 23:09:47 +0700
-categories: posts
+categories: bigstyle
 tags: 'jekyll'
 author: redVi
 ---
