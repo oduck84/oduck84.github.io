@@ -2,10 +2,10 @@
 bg: "bigstyle.jpg"
 layout: page
 permalink: /postss/
-title: "Bigstyle"
-crawlertitle: "Bigstyle"
-summary: "Bigstyle wold"
-active: Bigstyle
+title: "bigstyle"
+crawlertitle: "bigstyle"
+summary: "bigstyle wold"
+active: bigstyle
 ---
 
 
