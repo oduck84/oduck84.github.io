@@ -2,9 +2,9 @@
 bg: "gunpla.jpg"
 layout: page
 permalink: /gunpla/
-title: "Gunpla"
-crawlertitle: "Gunpla"
-summary: "Gunpla wold"
+title: "GUNPLA"
+crawlertitle: "Oduck84:Gunpla"
+summary: "건린이 건프라 도전기"
 active: Gunpla
 ---
 

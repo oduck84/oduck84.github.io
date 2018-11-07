@@ -3,8 +3,8 @@ bg: "bigstyle.jpg"
 layout: page
 permalink: /bigstyle/
 title: "bigstyle"
-crawlertitle: "bigstyle"
-summary: "bigstyle wold"
+crawlertitle: "Oduck84:BIG"
+summary: "BIG style MY style WE Style"
 active: BIGSYTLE
 ---
 
